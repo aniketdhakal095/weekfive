@@ -1,0 +1,31 @@
+body {
+    background-color: #6C9772;
+}
+.splitBlocks {
+    display: flex;
+    height: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+  }
+  .left-column{
+    width: 50%;
+    font-size: 150%;
+    color: aliceblue;
+
+  }
+  .right-column{
+    width: 50%;
+    font-size:75%;
+    padding-inline-start: 20%;
+    color: aliceblue;
+  }
+  .iimage{
+    padding: 0px 20px 20px 20px ;
+   
+  }
+  img{
+    width: 100%;
+    object-fit: cover;
+    height: 50%;
+  }
